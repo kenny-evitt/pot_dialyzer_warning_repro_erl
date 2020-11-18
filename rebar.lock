@@ -1,0 +1,8 @@
+{"1.2.0",
+[{<<"pot">>,{pkg,<<"pot">>,<<"1.0.0">>},0}]}.
+[
+{pkg_hash,[
+ {<<"pot">>, <<"BDAC7E6FB335DBB6FF86E6BA6DB583F1999AA4E3AD5C39CC6FAE90F759C94B01">>}]},
+{pkg_hash_ext,[
+ {<<"pot">>, <<"37ADA0ED073ED52AE93D18ACAE66978D6F79759F2629A1591309245F35D7816B">>}]}
+].
